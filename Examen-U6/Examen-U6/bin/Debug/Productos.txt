@@ -1,0 +1,10 @@
+Nombre: Control de Xbox
+Descripcion: Es un mando de videojuegos
+Cantidad en el Almacen: 700
+Precio por unidad: $1200.96
+
+Nombre: Xbox Series X
+Descripcion: Es una consola de videojuegos
+Cantidad en el Almacen: 56
+Precio por unidad: $14000
+

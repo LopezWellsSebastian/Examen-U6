@@ -1,0 +1,7 @@
+C:\Users\Sebas\OneDrive\Documentos\GitHub\Examen-U6\Examen-U6\Examen-U6\bin\Debug\Examen-U6.exe.config
+C:\Users\Sebas\OneDrive\Documentos\GitHub\Examen-U6\Examen-U6\Examen-U6\bin\Debug\Examen-U6.exe
+C:\Users\Sebas\OneDrive\Documentos\GitHub\Examen-U6\Examen-U6\Examen-U6\bin\Debug\Examen-U6.pdb
+C:\Users\Sebas\OneDrive\Documentos\GitHub\Examen-U6\Examen-U6\Examen-U6\obj\Debug\Examen-U6.csproj.AssemblyReference.cache
+C:\Users\Sebas\OneDrive\Documentos\GitHub\Examen-U6\Examen-U6\Examen-U6\obj\Debug\Examen-U6.csproj.CoreCompileInputs.cache
+C:\Users\Sebas\OneDrive\Documentos\GitHub\Examen-U6\Examen-U6\Examen-U6\obj\Debug\Examen-U6.exe
+C:\Users\Sebas\OneDrive\Documentos\GitHub\Examen-U6\Examen-U6\Examen-U6\obj\Debug\Examen-U6.pdb
